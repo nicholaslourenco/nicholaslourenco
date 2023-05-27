@@ -10,7 +10,6 @@ on:
 # Regras
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
 

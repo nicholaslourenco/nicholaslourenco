@@ -22,5 +22,5 @@ a novas oportunidades.
 </br>
 
 
-![snake gif](https://github.com/nicholaslourenco/nicholaslourenco/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nicholaslourenco/nicholaslourenco/blob/output/github-contribution-grid-snake.svg)
 

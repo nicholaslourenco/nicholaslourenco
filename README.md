@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" />
 
-# Nicholas Lourenço
+<h1 align="center" style="color=#00FFFF;">Nicholas Lourenço</h1>
 
 
 ### Hey Devs, bem vindos ao meu perfil GitHub 👋

@@ -6,7 +6,7 @@
 ### Hey Devs, bem vindos ao meu perfil GitHub 👋
 
 Tenho 20 anos, moro em São José dos Campos-SP, sou formado Técnico em Informática para a Internet, curto muito desenvolvimento 
-Mobile e Web, estou iniciando na área de Programação e no mercado de trabalho, gosto de aprender novas tecnologias e estou aberto 
+Mobile e Web, já estou familiarizado com desenvolvimento de software a algum tempo, gosto de aprender novas tecnologias e estou aberto 
 a novas oportunidades.
 
 ## Tecnologias e Ferramentas

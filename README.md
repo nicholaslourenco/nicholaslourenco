@@ -5,9 +5,7 @@
 
 ### Hey Devs, bem vindos ao meu perfil GitHub 👋
 
-Tenho 21 anos, moro em São José dos Campos-SP, sou formado Técnico em Informática para a Internet, curto muito desenvolvimento 
-Mobile e Web, já estou familiarizado com desenvolvimento de software a algum tempo, gosto de aprender novas tecnologias e estou aberto 
-a novas oportunidades.
+Tenho 22 anos, moro em São José dos Campos-SP, sou formado Técnico em Informática para a Internet, sou Desenvolvedor Full Stack, já estou familiarizado com desenvolvimento de software a algum tempo, atuo como Desenvolvedor Backend pela FCamara, me identifico com constante evolução e aprendizado de novas tecnologias e arquiteturas de projeto. Estou aberto a novas oportunidades.
 
 ## Tecnologias e Ferramentas
 

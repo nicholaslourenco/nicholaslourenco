@@ -50,8 +50,11 @@ Sou movido pelo aprendizado constante, evolução arquitetural e resolução de 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nicholaslourenco&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nicholaslourenco&layout=compact&langs_count=7&theme=calm" alt="Linguagens mais utilizadas" />
+  <!-- Status Geral de Commits e Atividade (Servidor de Alta Disponibilidade) -->
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicholaslourenco&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Suas Linguagens Mais Utilizadas nos Repositórios -->
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicholaslourenco&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
